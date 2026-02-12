@@ -92,9 +92,7 @@ Actualmente busco seguir creciendo profesionalmente, aportando valor en entornos
 
 - 📅 2024 | Proyecto Académico
 - <span style="display: inline-flex; align-items: center; margin-right: 10px;"><img src="https://img.icons8.com/color/30/000000/python.png" alt="Python" title="Python"/> Python</span>
-<span style="display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" title="FastAPI" width="80" height="30"/> 
-</span>
+<span style="display: inline-flex; align-items: center; margin-right: 10px;"><img src="https://img.icons8.com/color/30/000000/api.png" alt="FastAPI" title="FastAPI"/> FastAPI</span>
 <span style="display: inline-flex; align-items: center; margin-right: 10px;"><img src="https://img.icons8.com/color/30/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/> PostgreSQL</span>
 <span style="display: inline-flex; align-items: center; margin-right: 10px;"><img src="https://img.icons8.com/color/30/000000/nextjs.png" alt="Next.js" title="Next.js"/> Next.js</span>
 <span style="display: inline-flex; align-items: center; margin-right: 10px;"><img src="https://img.icons8.com/color/30/000000/react-native.png" alt="React" title="React"/> React</span>
